@@ -1,1 +1,1 @@
-# Moved to [basic-pragma](https://github.com/voces/basic-pragma)
+Moved to [basic-pragma](https://github.com/voces/basic-pragma)
